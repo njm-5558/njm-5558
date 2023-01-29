@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @njm-5558
+- 👋 Hi, I’m Najme
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
+- 🌱 I’m looking for a job in developing web and coding
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me ...
+- 📫 How to reach me: najmebabai@gmail.com
 
 <!---
 njm-5558/njm-5558 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
